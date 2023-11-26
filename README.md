@@ -5,4 +5,4 @@
 - I hope you enjoy exploring my repository!
 
 ## My GitHub Page:
-https://patrickbajorski.github.io/
+https://patrickbajorski.github.io
