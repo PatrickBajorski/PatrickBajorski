@@ -4,5 +4,4 @@
 - I also really like to watch and play some volleyball and watch F1.
 - I hope you enjoy exploring my repository!
 
-## My GitHub Page:
-https://patrickbajorski.github.io/
+## My GitHub Page: [PatrickBajorski's page](https://patrickbajorski.github.io/)
